@@ -6,6 +6,7 @@ import router from './router'
 import store from './store'
 
 import 'vuetify/dist/vuetify.min.css' 
+import 'src/assets/spritemap/skin.css'
 
 Vue.use(Vuetify)
 Vue.config.productionTip = false

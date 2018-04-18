@@ -1,6 +1,9 @@
 <template>
 <v-app>
    <v-container>
+     <v-flex xs12 sm6 offset-sm3>
+      <monster/>
+    </v-flex>
       <v-layout justify-center>
         <v-btn @click.stop="drawer = !drawer" dark color="pink">Toggle</v-btn>
       </v-layout>
@@ -30,6 +33,7 @@
   <v-toolbar app></v-toolbar>
   <v-content>
     <v-container fluid>
+
       <router-view></router-view>
     </v-container>
   </v-content>
@@ -39,6 +43,8 @@
 
 
 <script>
+import Monster from '@/components/Monster.vue'
+
   export default {
     data () {
       return {
@@ -48,6 +54,9 @@
           { title: 'About', icon: 'question_answer' }
         ]
       }
+    },
+    components: {
+      Monster
     }
   }
 </script>

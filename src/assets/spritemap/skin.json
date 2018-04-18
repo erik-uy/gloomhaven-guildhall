@@ -1,0 +1,3680 @@
+[
+  {
+    "name": "abilities/air",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1738",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/air-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1358, 47",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/any",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1694",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/any-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1980, 315",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-4-with-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1775, 289",
+    "size": "72, 58",
+    "orig": "72, 58",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-circle",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1800, 218",
+    "size": "72, 69",
+    "orig": "72, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-circle-with-middle-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1800, 147",
+    "size": "72, 69",
+    "orig": "72, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-circle-with-side-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1874, 279",
+    "size": "72, 69",
+    "orig": "72, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-line-3-with-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "842, 101",
+    "size": "72, 29",
+    "orig": "72, 29",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-line-4-with-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2007, 1945",
+    "size": "31, 102",
+    "orig": "31, 102",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-line-6-with-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1796, 713",
+    "size": "91, 142",
+    "orig": "91, 142",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-triangle-2-side",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1976, 788",
+    "size": "71, 72",
+    "orig": "71, 72",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-triangle-2-side-with-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1976, 714",
+    "size": "71, 72",
+    "orig": "71, 72",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/aoe-triangle-3-side-with-corner-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1874, 208",
+    "size": "72, 69",
+    "orig": "72, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/attack",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 276",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/attack-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2018, 862",
+    "size": "27, 27",
+    "orig": "27, 27",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/attack-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1849, 291",
+    "size": "20, 20",
+    "orig": "20, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/bless",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1619, 64",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/bless-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "535, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/boss-aoe-elder-drake-sp1",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "729, 73",
+    "size": "72, 67",
+    "orig": "72, 67",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/boss-aoe-inox-bodyguard-sp1",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1874, 137",
+    "size": "72, 69",
+    "orig": "72, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/boss-aoe-sightless-eye-sp1",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1889, 718",
+    "size": "72, 49",
+    "orig": "72, 49",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/boss-aoe-sightless-eye-sp2",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1249",
+    "size": "53, 49",
+    "orig": "53, 49",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/curse",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1577, 26",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/curse-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1138, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/curse-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "558, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/dark",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1650",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/dark-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 240",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/disarm",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1611, 28",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/disarm-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1168, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/disarm-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "581, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/earth",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1606",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/earth-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 168",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/fire",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1562",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/fire-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 132",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/flying",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "965, 82",
+    "size": "44, 34",
+    "orig": "44, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/flying-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "878, 73",
+    "size": "33, 26",
+    "orig": "33, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/flying-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "506, 1",
+    "size": "27, 21",
+    "orig": "27, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/heal",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1849, 313",
+    "size": "23, 34",
+    "orig": "23, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/heal-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1107, 122",
+    "size": "19, 27",
+    "orig": "19, 27",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/heal-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1116, 864",
+    "size": "14, 20",
+    "orig": "14, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/ice",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1106, 57",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/ice-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 243",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/immobilize",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1645, 27",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/immobilize-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1198, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/immobilize-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "604, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/invisible",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1679, 26",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/invisible-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1228, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/invisible-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "627, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/jump",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "842, 73",
+    "size": "34, 26",
+    "orig": "34, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/light",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1150, 59",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/light-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 135",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/loot",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 279",
+    "size": "28, 34",
+    "orig": "28, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/move",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2007, 1909",
+    "size": "40, 34",
+    "orig": "44, 34",
+    "offset": "2, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/move-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1575, 857",
+    "size": "32, 27",
+    "orig": "33, 27",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/move-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2023, 513",
+    "size": "24, 20",
+    "orig": "24, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/muddle",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1713, 26",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/muddle-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1258, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/muddle-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "650, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pierce",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1747, 26",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pierce-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1288, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pierce-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "673, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/poison",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 101",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/poison-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1318, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/poison-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "696, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pull",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1731, 149",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pull-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1348, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/pull-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "719, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/push",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1765, 149",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/push-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1378, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/push-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "742, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/range-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2023, 484",
+    "size": "23, 27",
+    "orig": "23, 27",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/range-medium-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2025, 686",
+    "size": "22, 26",
+    "orig": "22, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/range-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "834, 1",
+    "size": "18, 21",
+    "orig": "18, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/range-small-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2030, 1359",
+    "size": "17, 20",
+    "orig": "17, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/retaliate",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2018, 891",
+    "size": "29, 34",
+    "orig": "29, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/retaliate-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2022, 455",
+    "size": "23, 27",
+    "orig": "23, 27",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/retaliate-medium-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2025, 658",
+    "size": "22, 26",
+    "orig": "22, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/retaliate-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2030, 1337",
+    "size": "17, 20",
+    "orig": "17, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/retaliate-small-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2031, 1541",
+    "size": "16, 19",
+    "orig": "16, 19",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shield",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "843, 222",
+    "size": "33, 32",
+    "orig": "33, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shield-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1150, 31",
+    "size": "27, 26",
+    "orig": "27, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shield-medium-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "803, 73",
+    "size": "26, 25",
+    "orig": "26, 25",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shield-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2025, 636",
+    "size": "20, 20",
+    "orig": "20, 20",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shield-small-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1107, 101",
+    "size": "19, 19",
+    "orig": "19, 19",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/shuffle",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1105, 1",
+    "size": "31, 28",
+    "orig": "31, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/strengthen",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1730, 115",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/strengthen-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1408, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/strengthen-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "765, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/stun",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1764, 115",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/stun-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1438, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/stun-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "788, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/target-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1194, 75",
+    "size": "26, 26",
+    "orig": "26, 26",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/target-medium-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2004, 1535",
+    "size": "25, 25",
+    "orig": "25, 25",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/target-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "854, 3",
+    "size": "19, 19",
+    "orig": "19, 19",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/target-small-black",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1105, 31",
+    "size": "18, 18",
+    "orig": "18, 18",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/use",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1194, 31",
+    "size": "42, 42",
+    "orig": "42, 42",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/use-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1689, 60",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/wound",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1798, 113",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/wound-medium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1468, 1",
+    "size": "28, 28",
+    "orig": "28, 28",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "abilities/wound-small",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "811, 1",
+    "size": "21, 21",
+    "orig": "21, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/back",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1106, 1751",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/bless",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 554",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/border",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1567, 456",
+    "size": "6, 6",
+    "split": "2, 2, 2, 2",
+    "orig": "6, 6",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/curse",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1106, 1453",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/doubleAttack",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1545, 1751",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/minus1",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 256",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/minus2",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "440, 554",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/nullAttack",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1106, 1155",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/plus0",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1545, 1453",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/plus1",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "440, 256",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "attack/plus2",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1545, 1155",
+    "size": "437, 296",
+    "orig": "437, 296",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "bless-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2002, 1110",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "blood",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1910, 874",
+    "size": "18, 25",
+    "orig": "18, 25",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "blood-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2018, 927",
+    "size": "29, 40",
+    "orig": "29, 40",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "checkbox",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2016, 284",
+    "size": "31, 31",
+    "orig": "31, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "checkbox-check",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2020, 254",
+    "size": "27, 28",
+    "orig": "31, 32",
+    "offset": "4, 4",
+    "index": "-1"
+  },
+  {
+    "name": "checkbox-checked",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2016, 317",
+    "size": "31, 32",
+    "orig": "31, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Brute",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1894",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Cragheart",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1739",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Mindthief",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1584",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Scoundrel",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1429",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Spellweaver",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1274",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-unlocked/Tinkerer",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 1119",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Beast Tyrant",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "965, 118",
+    "size": "91, 83",
+    "orig": "97, 97",
+    "offset": "3, 7",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Berserker",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1803, 441",
+    "size": "80, 90",
+    "orig": "97, 97",
+    "offset": "9, 3",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Brute",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1930, 862",
+    "size": "86, 80",
+    "orig": "97, 97",
+    "offset": "6, 8",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Cragheart",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1311, 83",
+    "size": "83, 88",
+    "orig": "97, 97",
+    "offset": "7, 4",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Doomstalker",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1483, 96",
+    "size": "82, 83",
+    "orig": "97, 97",
+    "offset": "8, 7",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Elementalist",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1567, 98",
+    "size": "84, 81",
+    "orig": "97, 97",
+    "offset": "7, 8",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Mindthief",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1934, 629",
+    "size": "89, 83",
+    "orig": "97, 97",
+    "offset": "4, 7",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Nightshroud",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1889, 769",
+    "size": "85, 86",
+    "orig": "97, 97",
+    "offset": "6, 5",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Plagueherald",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1731, 183",
+    "size": "67, 91",
+    "orig": "97, 97",
+    "offset": "15, 3",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Quartermaster",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1848, 533",
+    "size": "67, 92",
+    "orig": "97, 97",
+    "offset": "15, 2",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Sawbones",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 103",
+    "size": "92, 68",
+    "orig": "97, 97",
+    "offset": "3, 14",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Scoundrel",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1851, 627",
+    "size": "81, 84",
+    "orig": "97, 97",
+    "offset": "8, 6",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Soothsinger",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1917, 546",
+    "size": "79, 79",
+    "orig": "97, 97",
+    "offset": "9, 9",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Spellweaver",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1636, 181",
+    "size": "93, 93",
+    "orig": "97, 97",
+    "offset": "2, 2",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Summoner",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1885, 441",
+    "size": "89, 90",
+    "orig": "97, 97",
+    "offset": "4, 3",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Sunkeeper",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1775, 349",
+    "size": "91, 90",
+    "orig": "97, 97",
+    "offset": "3, 3",
+    "index": "-1"
+  },
+  {
+    "name": "class-icons/Tinkerer",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1222, 83",
+    "size": "87, 88",
+    "orig": "97, 97",
+    "offset": "5, 4",
+    "index": "-1"
+  },
+  {
+    "name": "cloud",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1575, 548",
+    "size": "157, 77",
+    "orig": "157, 77",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/disarm",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 204",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/disarm-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2002, 1016",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/immobilize",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 207",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/immobilize-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2002, 969",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/invisible",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 171",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/invisible-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1011, 71",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/muddle",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1475, 58",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/muddle-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1011, 24",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/poison",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1511, 60",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/poison-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1058, 4",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/star",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1653, 61",
+    "size": "34, 33",
+    "orig": "34, 33",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/star-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1976, 442",
+    "size": "44, 44",
+    "orig": "44, 44",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/strengthen",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1547, 60",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/strengthen-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1998, 582",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/stun",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1583, 62",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/stun-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1998, 535",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/summon",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1282, 45",
+    "size": "36, 36",
+    "orig": "36, 36",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/summon-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1058, 102",
+    "size": "47, 47",
+    "orig": "47, 47",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/summonNew",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1320, 45",
+    "size": "36, 36",
+    "orig": "36, 36",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/wound",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1725, 60",
+    "size": "34, 34",
+    "orig": "34, 34",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "conditions/wound-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1976, 488",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "curse-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2002, 1063",
+    "size": "45, 45",
+    "orig": "45, 45",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "dim-corners",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1498, 2",
+    "size": "29, 29",
+    "split": "13, 13, 13, 13",
+    "orig": "29, 29",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "element-bg",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1673, 341",
+    "size": "100, 100",
+    "orig": "106, 106",
+    "offset": "3, 3",
+    "index": "-1"
+  },
+  {
+    "name": "element-glow",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "729, 142",
+    "size": "112, 112",
+    "orig": "112, 112",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "element-glow-half",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1653, 276",
+    "size": "111, 63",
+    "orig": "111, 63",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "element-ring",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1567, 344",
+    "size": "104, 104",
+    "orig": "110, 110",
+    "offset": "3, 3",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/fancyExtraLargeOutlineNumbers",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1575, 627",
+    "size": "274, 45",
+    "orig": "512, 512",
+    "offset": "3, 466",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/fancyLargeOutline",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 105",
+    "size": "505, 149",
+    "orig": "512, 512",
+    "offset": "0, 362",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainExtraLargeNumbers",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1621, 857",
+    "size": "287, 42",
+    "orig": "512, 512",
+    "offset": "1, 469",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainExtraLargeOutlineNumbers",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1621, 901",
+    "size": "307, 41",
+    "orig": "512, 512",
+    "offset": "1, 470",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainLargeNumbers",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 6",
+    "size": "255, 25",
+    "orig": "512, 512",
+    "offset": "1, 486",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainLargeOutline",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 33",
+    "size": "503, 70",
+    "orig": "512, 512",
+    "offset": "0, 441",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainMedium",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "506, 24",
+    "size": "503, 47",
+    "orig": "512, 512",
+    "offset": "0, 464",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainMediumOutline",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1116, 886",
+    "size": "503, 56",
+    "orig": "512, 512",
+    "offset": "0, 455",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainSmall",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 181",
+    "size": "506, 43",
+    "orig": "512, 512",
+    "offset": "0, 468",
+    "index": "-1"
+  },
+  {
+    "name": "fonts/plainSmallOutline",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 226",
+    "size": "506, 52",
+    "orig": "512, 512",
+    "offset": "0, 459",
+    "index": "-1"
+  },
+  {
+    "name": "leaves",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1058, 151",
+    "size": "68, 69",
+    "orig": "68, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/arrow",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1300",
+    "size": "44, 79",
+    "orig": "44, 79",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/bg",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "879, 535",
+    "size": "251, 315",
+    "orig": "251, 315",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/bottom",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "258, 10",
+    "size": "196, 21",
+    "orig": "196, 21",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/corner",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1796, 674",
+    "size": "37, 37",
+    "orig": "37, 37",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/left",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1792",
+    "size": "21, 255",
+    "orig": "21, 255",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/right",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1535",
+    "size": "18, 255",
+    "orig": "18, 255",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/top",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "843, 203",
+    "size": "196, 17",
+    "orig": "196, 17",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "menu/vignette",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "879, 222",
+    "size": "247, 311",
+    "orig": "247, 311",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "network-connected",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2007, 1820",
+    "size": "37, 38",
+    "orig": "37, 38",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "network-disconnected",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1866, 104",
+    "size": "31, 31",
+    "orig": "31, 31",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "network-server",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1948, 312",
+    "size": "30, 36",
+    "orig": "30, 36",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "player-hp",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 173",
+    "size": "117, 6",
+    "orig": "117, 6",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/add",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1199",
+    "size": "48, 48",
+    "orig": "48, 48",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/bar-bottom",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 852",
+    "size": "1113, 131",
+    "orig": "1113, 131",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/bar-top",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1, 985",
+    "size": "1113, 132",
+    "orig": "1113, 132",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/coins",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1543, 26",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/conditions",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "843, 132",
+    "size": "120, 69",
+    "split": "0, 55, 33, 34",
+    "orig": "120, 69",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-air",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1567, 287",
+    "size": "84, 55",
+    "orig": "100, 100",
+    "offset": "9, 22",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-dark",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1396, 31",
+    "size": "77, 61",
+    "orig": "100, 100",
+    "offset": "12, 19",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-earth",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1381",
+    "size": "62, 69",
+    "orig": "100, 100",
+    "offset": "19, 12",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-fire",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1452",
+    "size": "61, 81",
+    "orig": "100, 100",
+    "offset": "20, 9",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-ice",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1653, 96",
+    "size": "75, 83",
+    "orig": "100, 100",
+    "offset": "13, 8",
+    "index": "-1"
+  },
+  {
+    "name": "psd/element-light",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1396, 94",
+    "size": "85, 85",
+    "orig": "100, 100",
+    "offset": "8, 7",
+    "index": "-1"
+  },
+  {
+    "name": "psd/flying-stat",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "803, 100",
+    "size": "37, 40",
+    "orig": "37, 40",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/level",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1475, 33",
+    "size": "32, 23",
+    "orig": "32, 23",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/level-white",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1509, 33",
+    "size": "32, 23",
+    "orig": "32, 23",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/loot-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2007, 1860",
+    "size": "39, 47",
+    "orig": "39, 47",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/menu",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1984, 1157",
+    "size": "48, 40",
+    "orig": "48, 40",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monster-boss",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1575, 450",
+    "size": "112, 96",
+    "orig": "112, 96",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monster-elite",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1734, 533",
+    "size": "112, 92",
+    "orig": "112, 92",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monster-hp",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1247, 173",
+    "size": "98, 6",
+    "orig": "98, 6",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monster-normal",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1689, 443",
+    "size": "112, 88",
+    "orig": "112, 88",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterAbility-back",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1116, 944",
+    "size": "441, 209",
+    "orig": "441, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterAbility-front",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1559, 944",
+    "size": "441, 209",
+    "orig": "441, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterStats-boss",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1132, 675",
+    "size": "441, 209",
+    "orig": "441, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterStats-boss-overlay",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 280",
+    "size": "437, 182",
+    "orig": "437, 182",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterStats-elite-overlay",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "508, 73",
+    "size": "219, 181",
+    "orig": "219, 181",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterStats-normal",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1132, 464",
+    "size": "441, 209",
+    "orig": "441, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/monsterStats-normal-overlay",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1575, 674",
+    "size": "219, 181",
+    "orig": "219, 181",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/skull",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1058, 51",
+    "size": "46, 49",
+    "orig": "46, 49",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/sub",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "456, 19",
+    "size": "48, 12",
+    "orig": "48, 12",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/traps",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1238, 45",
+    "size": "42, 36",
+    "orig": "42, 36",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/xp",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1832, 113",
+    "size": "32, 32",
+    "orig": "32, 32",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "psd/xp-large",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "916, 83",
+    "size": "47, 47",
+    "orig": "47, 47",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "ripple",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1868, 350",
+    "size": "89, 89",
+    "orig": "89, 89",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "rounded",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2018, 104",
+    "size": "29, 29",
+    "split": "13, 13, 13, 13",
+    "orig": "29, 29",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "scroll-vert",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2034, 1167",
+    "size": "13, 80",
+    "split": "0, 13, 66, 11",
+    "orig": "13, 80",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "selected",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1959, 351",
+    "size": "88, 88",
+    "orig": "100, 100",
+    "offset": "6, 6",
+    "index": "-1"
+  },
+  {
+    "name": "textfield",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "2007, 1782",
+    "size": "39, 36",
+    "split": "19, 19, 0, 36",
+    "pad": "12, 12, -1, -1",
+    "orig": "39, 36",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "textfield-cursor",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1128, 520",
+    "size": "2, 13",
+    "split": "0, 1, 6, 6",
+    "orig": "2, 13",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "white",
+    "file": "skin.png",
+    "rotate": "false",
+    "xy": "1889, 713",
+    "size": "3, 3",
+    "orig": "3, 3",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "bg/bg",
+    "file": "skin2.png",
+    "rotate": "false",
+    "xy": "0, 0",
+    "size": "1024, 1024",
+    "orig": "1024, 1024",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Beast Tyrant",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "1, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Berserker",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "156, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Doomstalker",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "311, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Elementalist",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "466, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Nightshroud",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "621, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Plagueherald",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "776, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Quartermaster",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "931, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Sawbones",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "1086, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Soothsinger",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "1241, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Summoner",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "1396, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "class-bgs-locked/Sunkeeper",
+    "file": "skin3.png",
+    "rotate": "true",
+    "xy": "1551, 1",
+    "size": "1103, 153",
+    "orig": "1103, 153",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_013",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1768, 684",
+    "size": "90, 59",
+    "orig": "600, 425",
+    "offset": "265, 209",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_014",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1262, 540",
+    "size": "90, 62",
+    "orig": "600, 425",
+    "offset": "265, 209",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_015",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1495, 484",
+    "size": "143, 72",
+    "orig": "600, 425",
+    "offset": "260, 208",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_016",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1211, 2",
+    "size": "143, 83",
+    "orig": "600, 425",
+    "offset": "258, 206",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_017",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1510, 557",
+    "size": "143, 86",
+    "orig": "600, 425",
+    "offset": "256, 205",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_018",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "480, 988",
+    "size": "156, 89",
+    "orig": "600, 425",
+    "offset": "243, 204",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_019",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1623, 1120",
+    "size": "153, 92",
+    "orig": "600, 425",
+    "offset": "251, 202",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_020",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1022, 990",
+    "size": "170, 108",
+    "orig": "600, 425",
+    "offset": "235, 200",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_021",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1250, 1001",
+    "size": "198, 117",
+    "orig": "600, 425",
+    "offset": "218, 199",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_022",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1528, 758",
+    "size": "230, 127",
+    "orig": "600, 425",
+    "offset": "201, 198",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_023",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1211, 86",
+    "size": "269, 139",
+    "orig": "600, 425",
+    "offset": "180, 197",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_024",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1228, 1200",
+    "size": "287, 143",
+    "orig": "600, 425",
+    "offset": "168, 194",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_025",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "570, 990",
+    "size": "339, 154",
+    "orig": "600, 425",
+    "offset": "138, 183",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_026",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "0, 630",
+    "size": "356, 157",
+    "orig": "600, 425",
+    "offset": "126, 180",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_027",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "0, 278",
+    "size": "351, 157",
+    "orig": "600, 425",
+    "offset": "126, 180",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_028",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "158, 638",
+    "size": "348, 157",
+    "orig": "600, 425",
+    "offset": "128, 180",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_029",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "488, 308",
+    "size": "337, 152",
+    "orig": "600, 425",
+    "offset": "132, 185",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_030",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "959, 672",
+    "size": "317, 149",
+    "orig": "600, 425",
+    "offset": "139, 188",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_031",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1109, 687",
+    "size": "302, 147",
+    "orig": "600, 425",
+    "offset": "143, 190",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_032",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1372, 1204",
+    "size": "283, 147",
+    "orig": "600, 425",
+    "offset": "152, 190",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_033",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1694, 536",
+    "size": "272, 147",
+    "orig": "600, 425",
+    "offset": "154, 189",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_034",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1528, 886",
+    "size": "247, 142",
+    "orig": "600, 425",
+    "offset": "166, 189",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_035",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1368, 1002",
+    "size": "197, 129",
+    "orig": "600, 425",
+    "offset": "188, 188",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_036",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1498, 1029",
+    "size": "174, 124",
+    "orig": "600, 425",
+    "offset": "198, 187",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_037",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1131, 995",
+    "size": "165, 118",
+    "orig": "600, 425",
+    "offset": "202, 187",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_038",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1528, 644",
+    "size": "165, 113",
+    "orig": "600, 425",
+    "offset": "201, 186",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_039",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "910, 990",
+    "size": "159, 111",
+    "orig": "600, 425",
+    "offset": "204, 186",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_040",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1262, 384",
+    "size": "151, 110",
+    "orig": "600, 425",
+    "offset": "205, 185",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_041",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "264, 987",
+    "size": "157, 110",
+    "orig": "600, 425",
+    "offset": "199, 184",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_042",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1355, 605",
+    "size": "154, 110",
+    "orig": "600, 425",
+    "offset": "202, 183",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_043",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "375, 988",
+    "size": "156, 104",
+    "orig": "600, 425",
+    "offset": "200, 183",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_044",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1373, 508",
+    "size": "121, 96",
+    "orig": "600, 425",
+    "offset": "235, 182",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_045",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1490, 392",
+    "size": "112, 91",
+    "orig": "600, 425",
+    "offset": "244, 181",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_046",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1262, 603",
+    "size": "112, 92",
+    "orig": "600, 425",
+    "offset": "244, 180",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_047",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1881, 147",
+    "size": "112, 92",
+    "orig": "600, 425",
+    "offset": "244, 180",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_048",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1881, 240",
+    "size": "112, 93",
+    "orig": "600, 425",
+    "offset": "244, 179",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_049",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1787, 221",
+    "size": "112, 93",
+    "orig": "600, 425",
+    "offset": "244, 179",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_050",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1691, 48",
+    "size": "113, 94",
+    "orig": "600, 425",
+    "offset": "244, 178",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_051",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1786, 48",
+    "size": "113, 94",
+    "orig": "600, 425",
+    "offset": "244, 178",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_052",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1691, 162",
+    "size": "113, 95",
+    "orig": "600, 425",
+    "offset": "244, 178",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_053",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1748, 334",
+    "size": "113, 96",
+    "orig": "600, 425",
+    "offset": "244, 177",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_054",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1863, 334",
+    "size": "113, 98",
+    "orig": "600, 425",
+    "offset": "244, 175",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_055",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1863, 433",
+    "size": "114, 102",
+    "orig": "600, 425",
+    "offset": "243, 171",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_056",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1748, 431",
+    "size": "114, 104",
+    "orig": "600, 425",
+    "offset": "243, 169",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_057",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1584, 46",
+    "size": "114, 106",
+    "orig": "600, 425",
+    "offset": "243, 167",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_058",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1639, 421",
+    "size": "114, 108",
+    "orig": "600, 425",
+    "offset": "243, 165",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_059",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1581, 161",
+    "size": "114, 109",
+    "orig": "600, 425",
+    "offset": "243, 164",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_060",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1581, 276",
+    "size": "115, 111",
+    "orig": "600, 425",
+    "offset": "243, 162",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_061",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1471, 44",
+    "size": "115, 112",
+    "orig": "600, 425",
+    "offset": "243, 161",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_062",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1467, 276",
+    "size": "115, 113",
+    "orig": "600, 425",
+    "offset": "243, 160",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_063",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1467, 160",
+    "size": "115, 113",
+    "orig": "600, 425",
+    "offset": "243, 160",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_064",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1351, 151",
+    "size": "115, 115",
+    "orig": "600, 425",
+    "offset": "243, 159",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_065",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1355, 35",
+    "size": "115, 115",
+    "orig": "600, 425",
+    "offset": "243, 159",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_066",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1373, 392",
+    "size": "116, 115",
+    "orig": "600, 425",
+    "offset": "242, 159",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_067",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1351, 267",
+    "size": "116, 115",
+    "orig": "600, 425",
+    "offset": "242, 159",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_068",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1777, 1222",
+    "size": "265, 240",
+    "orig": "600, 425",
+    "offset": "179, 118",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_069",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "929, 1",
+    "size": "309, 281",
+    "orig": "600, 425",
+    "offset": "155, 99",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_070",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "158, 293",
+    "size": "344, 329",
+    "orig": "600, 425",
+    "offset": "136, 65",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_071",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "264, 1145",
+    "size": "342, 327",
+    "orig": "600, 425",
+    "offset": "135, 65",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_072",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "316, 646",
+    "size": "340, 327",
+    "orig": "600, 425",
+    "offset": "138, 65",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_073",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "592, 1150",
+    "size": "337, 326",
+    "orig": "600, 425",
+    "offset": "140, 66",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_074",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "641, 311",
+    "size": "334, 323",
+    "orig": "600, 425",
+    "offset": "141, 67",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_075",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "644, 663",
+    "size": "326, 314",
+    "orig": "600, 425",
+    "offset": "144, 73",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_076",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "919, 1161",
+    "size": "326, 308",
+    "orig": "600, 425",
+    "offset": "144, 79",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_077",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "609, 3",
+    "size": "319, 304",
+    "orig": "600, 425",
+    "offset": "148, 81",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_078",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "965, 356",
+    "size": "315, 296",
+    "orig": "600, 425",
+    "offset": "149, 85",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_079",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "298, 2",
+    "size": "310, 290",
+    "orig": "600, 425",
+    "offset": "151, 89",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_080",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "0, 0",
+    "size": "297, 277",
+    "orig": "600, 425",
+    "offset": "158, 96",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_081",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1257, 716",
+    "size": "284, 270",
+    "orig": "600, 425",
+    "offset": "164, 98",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_082",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1520, 1213",
+    "size": "274, 256",
+    "orig": "600, 425",
+    "offset": "169, 106",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_083",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "1776, 744",
+    "size": "260, 241",
+    "orig": "600, 425",
+    "offset": "175, 111",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/esoteric_084",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1777, 1005",
+    "size": "232, 216",
+    "orig": "600, 425",
+    "offset": "188, 125",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/flare",
+    "file": "skin4.png",
+    "rotate": "true",
+    "xy": "0, 987",
+    "size": "500, 263",
+    "orig": "500, 278",
+    "offset": "0, 5",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/flash",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1694, 684",
+    "size": "73, 73",
+    "orig": "73, 73",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/logo",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1881, 48",
+    "size": "99, 98",
+    "orig": "101, 100",
+    "offset": "0, 2",
+    "index": "-1"
+  },
+  {
+    "name": "esoteric/text",
+    "file": "skin4.png",
+    "rotate": "false",
+    "xy": "1623, 1057",
+    "size": "153, 62",
+    "orig": "155, 64",
+    "offset": "0, 2",
+    "index": "-1"
+  },
+  {
+    "name": "logo/logo",
+    "file": "skin5.png",
+    "rotate": "false",
+    "xy": "1, 1",
+    "size": "440, 367",
+    "orig": "440, 367",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Ancient Artillery",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Bandit Archer",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Bandit Commander",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Bandit Guard",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Black Imp",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Captain of the Guard",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Cave Bear",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/City Archer",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/City Guard",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Cultist",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Dark Rider",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Deep Terror",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Earth Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Elder Drake",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Flame Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Forest Imp",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Frost Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Giant Viper",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Harrower Infester",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Hound",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Inox Archer",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Inox Bodyguard",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "210, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Inox Guard",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Inox Shaman",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Jekserah",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Living Bones",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Living Corpse",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Living Spirit",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "419, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Lurker",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Merciless Overseer",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Night Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Ooze",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Prime Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1464, 1056",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Rending Drake",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "628, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Savvas Icestorm",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Savvas Lavaflow",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Spitting Drake",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Stone Golem",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1464, 845",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Sun Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "837, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/The Betrayer",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/The Colorless",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/The Gloom",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1464, 215",
+    "size": "207, 206",
+    "orig": "207, 206",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/The Sightless Eye",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1464, 634",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Vermling Scout",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1046, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Vermling Shaman",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 212",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Wind Demon",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1464, 423",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  },
+  {
+    "name": "monsters/Winged Horror",
+    "file": "skin6.png",
+    "rotate": "false",
+    "xy": "1255, 1",
+    "size": "207, 209",
+    "orig": "207, 209",
+    "offset": "0, 0",
+    "index": "-1"
+  }
+]
