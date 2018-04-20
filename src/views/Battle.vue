@@ -2,14 +2,23 @@
 <v-container grid-list-xl text-xs-center>
 
   <v-toolbar app>
-    <v-btn @click.stop="drawer = !drawer" dark color="pink">Draw</v-btn>    
+    <v-flex d-flex>
+      <v-layout row>
+        <v-btn @click.stop="drawer = !drawer"  color="error">Draw</v-btn>
+       
     <Element type="earth"/>
     <Element type="fire"/>
     <Element type="air"/>
     <Element type="ice"/>
     <Element type="light"/>
     <Element type="dark"/>
-    <v-btn @click.stop="drawer = !drawer" dark color="pink">End Turn</v-btn>    
+        <v-btn @click.stop="drawer = !drawer"  color="success">End Turn</v-btn>    
+      </v-layout>
+    </v-flex>
+
+
+
+        
   </v-toolbar>
 
 
