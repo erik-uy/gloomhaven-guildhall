@@ -1,11 +1,12 @@
 <template>
-  <v-card>
-    <v-card-media src="/static/doc-images/cards/desert.jpg" height="200px">
+  <v-card width="215px">
+    <v-card-media :contain="true" height="100px">
+      <i :class="'monsters-'+type"></i>
     </v-card-media>
     <v-card-title primary-title>
         <div>
-        <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
-        <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+          <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
+          <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
         </div>
     </v-card-title>
     <v-card-actions>
@@ -17,6 +18,7 @@
 
 <script>
 export default {
-  name: 'Monster'
+  name: 'Monster',
+  props: ['type']
 }
 </script>

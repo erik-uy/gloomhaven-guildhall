@@ -59,7 +59,9 @@ function getClass(js,parentDir='.'){
         .${name} {
             height: ${height}px;
             width: ${width}px;
-            background: url('${parentDir}/${file}') -${x}px -${y}px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('${parentDir}/${file}') no-repeat -${x}px -${y}px;
         }
     `
 }

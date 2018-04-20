@@ -2,2202 +2,2936 @@
         .abilities-air {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -2004px -1738px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1738px;
         }
     
         .abilities-air-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1358px -47px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1358px -47px;
         }
     
         .abilities-any {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -2004px -1694px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1694px;
         }
     
         .abilities-any-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1980px -315px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1980px -315px;
         }
     
         .abilities-aoe-4-with-black {
             height: 58px;
             width: 72px;
-            background: url('./skin.png') -1775px -289px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1775px -289px;
         }
     
         .abilities-aoe-circle {
             height: 69px;
             width: 72px;
-            background: url('./skin.png') -1800px -218px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1800px -218px;
         }
     
         .abilities-aoe-circle-with-middle-black {
             height: 69px;
             width: 72px;
-            background: url('./skin.png') -1800px -147px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1800px -147px;
         }
     
         .abilities-aoe-circle-with-side-black {
             height: 69px;
             width: 72px;
-            background: url('./skin.png') -1874px -279px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1874px -279px;
         }
     
         .abilities-aoe-line-3-with-black {
             height: 29px;
             width: 72px;
-            background: url('./skin.png') -842px -101px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -842px -101px;
         }
     
         .abilities-aoe-line-4-with-black {
             height: 102px;
             width: 31px;
-            background: url('./skin.png') -2007px -1945px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2007px -1945px;
         }
     
         .abilities-aoe-line-6-with-black {
             height: 142px;
             width: 91px;
-            background: url('./skin.png') -1796px -713px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1796px -713px;
         }
     
         .abilities-aoe-triangle-2-side {
             height: 72px;
             width: 71px;
-            background: url('./skin.png') -1976px -788px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1976px -788px;
         }
     
         .abilities-aoe-triangle-2-side-with-black {
             height: 72px;
             width: 71px;
-            background: url('./skin.png') -1976px -714px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1976px -714px;
         }
     
         .abilities-aoe-triangle-3-side-with-corner-black {
             height: 69px;
             width: 72px;
-            background: url('./skin.png') -1874px -208px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1874px -208px;
         }
     
         .abilities-attack {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1948px -276px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -276px;
         }
     
         .abilities-attack-medium {
             height: 27px;
             width: 27px;
-            background: url('./skin.png') -2018px -862px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2018px -862px;
         }
     
         .abilities-attack-small {
             height: 20px;
             width: 20px;
-            background: url('./skin.png') -1849px -291px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1849px -291px;
         }
     
         .abilities-bless {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1619px -64px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1619px -64px;
         }
     
         .abilities-bless-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -535px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -535px -1px;
         }
     
         .abilities-boss-aoe-elder-drake-sp1 {
             height: 67px;
             width: 72px;
-            background: url('./skin.png') -729px -73px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -729px -73px;
         }
     
         .abilities-boss-aoe-inox-bodyguard-sp1 {
             height: 69px;
             width: 72px;
-            background: url('./skin.png') -1874px -137px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1874px -137px;
         }
     
         .abilities-boss-aoe-sightless-eye-sp1 {
             height: 49px;
             width: 72px;
-            background: url('./skin.png') -1889px -718px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1889px -718px;
         }
     
         .abilities-boss-aoe-sightless-eye-sp2 {
             height: 49px;
             width: 53px;
-            background: url('./skin.png') -1984px -1249px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1249px;
         }
     
         .abilities-curse {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1577px -26px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1577px -26px;
         }
     
         .abilities-curse-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1138px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1138px -1px;
         }
     
         .abilities-curse-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -558px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -558px -1px;
         }
     
         .abilities-dark {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -2004px -1650px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1650px;
         }
     
         .abilities-dark-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1948px -240px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -240px;
         }
     
         .abilities-disarm {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1611px -28px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1611px -28px;
         }
     
         .abilities-disarm-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1168px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1168px -1px;
         }
     
         .abilities-disarm-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -581px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -581px -1px;
         }
     
         .abilities-earth {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -2004px -1606px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1606px;
         }
     
         .abilities-earth-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1948px -168px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -168px;
         }
     
         .abilities-fire {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -2004px -1562px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1562px;
         }
     
         .abilities-fire-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1948px -132px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -132px;
         }
     
         .abilities-flying {
             height: 34px;
             width: 44px;
-            background: url('./skin.png') -965px -82px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -965px -82px;
         }
     
         .abilities-flying-medium {
             height: 26px;
             width: 33px;
-            background: url('./skin.png') -878px -73px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -878px -73px;
         }
     
         .abilities-flying-small {
             height: 21px;
             width: 27px;
-            background: url('./skin.png') -506px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -506px -1px;
         }
     
         .abilities-heal {
             height: 34px;
             width: 23px;
-            background: url('./skin.png') -1849px -313px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1849px -313px;
         }
     
         .abilities-heal-medium {
             height: 27px;
             width: 19px;
-            background: url('./skin.png') -1107px -122px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1107px -122px;
         }
     
         .abilities-heal-small {
             height: 20px;
             width: 14px;
-            background: url('./skin.png') -1116px -864px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1116px -864px;
         }
     
         .abilities-ice {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -1106px -57px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1106px -57px;
         }
     
         .abilities-ice-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1984px -243px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -243px;
         }
     
         .abilities-immobilize {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1645px -27px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1645px -27px;
         }
     
         .abilities-immobilize-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1198px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1198px -1px;
         }
     
         .abilities-immobilize-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -604px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -604px -1px;
         }
     
         .abilities-invisible {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1679px -26px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1679px -26px;
         }
     
         .abilities-invisible-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1228px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1228px -1px;
         }
     
         .abilities-invisible-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -627px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -627px -1px;
         }
     
         .abilities-jump {
             height: 26px;
             width: 34px;
-            background: url('./skin.png') -842px -73px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -842px -73px;
         }
     
         .abilities-light {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -1150px -59px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1150px -59px;
         }
     
         .abilities-light-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1984px -135px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -135px;
         }
     
         .abilities-loot {
             height: 34px;
             width: 28px;
-            background: url('./skin.png') -1984px -279px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -279px;
         }
     
         .abilities-move {
             height: 34px;
             width: 40px;
-            background: url('./skin.png') -2007px -1909px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2007px -1909px;
         }
     
         .abilities-move-medium {
             height: 27px;
             width: 32px;
-            background: url('./skin.png') -1575px -857px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1575px -857px;
         }
     
         .abilities-move-small {
             height: 20px;
             width: 24px;
-            background: url('./skin.png') -2023px -513px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2023px -513px;
         }
     
         .abilities-muddle {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1713px -26px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1713px -26px;
         }
     
         .abilities-muddle-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1258px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1258px -1px;
         }
     
         .abilities-muddle-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -650px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -650px -1px;
         }
     
         .abilities-pierce {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1747px -26px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1747px -26px;
         }
     
         .abilities-pierce-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1288px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1288px -1px;
         }
     
         .abilities-pierce-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -673px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -673px -1px;
         }
     
         .abilities-poison {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1984px -101px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -101px;
         }
     
         .abilities-poison-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1318px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1318px -1px;
         }
     
         .abilities-poison-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -696px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -696px -1px;
         }
     
         .abilities-pull {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1731px -149px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1731px -149px;
         }
     
         .abilities-pull-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1348px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1348px -1px;
         }
     
         .abilities-pull-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -719px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -719px -1px;
         }
     
         .abilities-push {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1765px -149px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1765px -149px;
         }
     
         .abilities-push-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1378px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1378px -1px;
         }
     
         .abilities-push-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -742px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -742px -1px;
         }
     
         .abilities-range-medium {
             height: 27px;
             width: 23px;
-            background: url('./skin.png') -2023px -484px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2023px -484px;
         }
     
         .abilities-range-medium-black {
             height: 26px;
             width: 22px;
-            background: url('./skin.png') -2025px -686px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2025px -686px;
         }
     
         .abilities-range-small {
             height: 21px;
             width: 18px;
-            background: url('./skin.png') -834px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -834px -1px;
         }
     
         .abilities-range-small-black {
             height: 20px;
             width: 17px;
-            background: url('./skin.png') -2030px -1359px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2030px -1359px;
         }
     
         .abilities-retaliate {
             height: 34px;
             width: 29px;
-            background: url('./skin.png') -2018px -891px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2018px -891px;
         }
     
         .abilities-retaliate-medium {
             height: 27px;
             width: 23px;
-            background: url('./skin.png') -2022px -455px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2022px -455px;
         }
     
         .abilities-retaliate-medium-black {
             height: 26px;
             width: 22px;
-            background: url('./skin.png') -2025px -658px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2025px -658px;
         }
     
         .abilities-retaliate-small {
             height: 20px;
             width: 17px;
-            background: url('./skin.png') -2030px -1337px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2030px -1337px;
         }
     
         .abilities-retaliate-small-black {
             height: 19px;
             width: 16px;
-            background: url('./skin.png') -2031px -1541px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2031px -1541px;
         }
     
         .abilities-shield {
             height: 32px;
             width: 33px;
-            background: url('./skin.png') -843px -222px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -843px -222px;
         }
     
         .abilities-shield-medium {
             height: 26px;
             width: 27px;
-            background: url('./skin.png') -1150px -31px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1150px -31px;
         }
     
         .abilities-shield-medium-black {
             height: 25px;
             width: 26px;
-            background: url('./skin.png') -803px -73px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -803px -73px;
         }
     
         .abilities-shield-small {
             height: 20px;
             width: 20px;
-            background: url('./skin.png') -2025px -636px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2025px -636px;
         }
     
         .abilities-shield-small-black {
             height: 19px;
             width: 19px;
-            background: url('./skin.png') -1107px -101px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1107px -101px;
         }
     
         .abilities-shuffle {
             height: 28px;
             width: 31px;
-            background: url('./skin.png') -1105px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1105px -1px;
         }
     
         .abilities-strengthen {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1730px -115px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1730px -115px;
         }
     
         .abilities-strengthen-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1408px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1408px -1px;
         }
     
         .abilities-strengthen-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -765px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -765px -1px;
         }
     
         .abilities-stun {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1764px -115px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1764px -115px;
         }
     
         .abilities-stun-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1438px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1438px -1px;
         }
     
         .abilities-stun-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -788px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -788px -1px;
         }
     
         .abilities-target-medium {
             height: 26px;
             width: 26px;
-            background: url('./skin.png') -1194px -75px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1194px -75px;
         }
     
         .abilities-target-medium-black {
             height: 25px;
             width: 25px;
-            background: url('./skin.png') -2004px -1535px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2004px -1535px;
         }
     
         .abilities-target-small {
             height: 19px;
             width: 19px;
-            background: url('./skin.png') -854px -3px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -854px -3px;
         }
     
         .abilities-target-small-black {
             height: 18px;
             width: 18px;
-            background: url('./skin.png') -1105px -31px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1105px -31px;
         }
     
         .abilities-use {
             height: 42px;
             width: 42px;
-            background: url('./skin.png') -1194px -31px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1194px -31px;
         }
     
         .abilities-use-medium {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1689px -60px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1689px -60px;
         }
     
         .abilities-wound {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1798px -113px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1798px -113px;
         }
     
         .abilities-wound-medium {
             height: 28px;
             width: 28px;
-            background: url('./skin.png') -1468px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1468px -1px;
         }
     
         .abilities-wound-small {
             height: 21px;
             width: 21px;
-            background: url('./skin.png') -811px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -811px -1px;
         }
     
         .attack-back {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1106px -1751px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1106px -1751px;
         }
     
         .attack-bless {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1px -554px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -554px;
         }
     
         .attack-border {
             height: 6px;
             width: 6px;
-            background: url('./skin.png') -1567px -456px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1567px -456px;
         }
     
         .attack-curse {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1106px -1453px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1106px -1453px;
         }
     
         .attack-doubleAttack {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1545px -1751px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1545px -1751px;
         }
     
         .attack-minus1 {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1px -256px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -256px;
         }
     
         .attack-minus2 {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -440px -554px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -440px -554px;
         }
     
         .attack-nullAttack {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1106px -1155px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1106px -1155px;
         }
     
         .attack-plus0 {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1545px -1453px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1545px -1453px;
         }
     
         .attack-plus1 {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -440px -256px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -440px -256px;
         }
     
         .attack-plus2 {
             height: 296px;
             width: 437px;
-            background: url('./skin.png') -1545px -1155px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1545px -1155px;
         }
     
         .bless-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -2002px -1110px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2002px -1110px;
         }
     
         .blood {
             height: 25px;
             width: 18px;
-            background: url('./skin.png') -1910px -874px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1910px -874px;
         }
     
         .blood-large {
             height: 40px;
             width: 29px;
-            background: url('./skin.png') -2018px -927px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2018px -927px;
         }
     
         .checkbox {
             height: 31px;
             width: 31px;
-            background: url('./skin.png') -2016px -284px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2016px -284px;
         }
     
         .checkbox-check {
             height: 28px;
             width: 27px;
-            background: url('./skin.png') -2020px -254px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2020px -254px;
         }
     
         .checkbox-checked {
             height: 32px;
             width: 31px;
-            background: url('./skin.png') -2016px -317px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2016px -317px;
         }
     
         .class-bgs-unlocked-Brute {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1894px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1894px;
         }
     
         .class-bgs-unlocked-Cragheart {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1739px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1739px;
         }
     
         .class-bgs-unlocked-Mindthief {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1584px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1584px;
         }
     
         .class-bgs-unlocked-Scoundrel {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1429px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1429px;
         }
     
         .class-bgs-unlocked-Spellweaver {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1274px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1274px;
         }
     
         .class-bgs-unlocked-Tinkerer {
             height: 153px;
             width: 1103px;
-            background: url('./skin.png') -1px -1119px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -1119px;
         }
     
         .class-icons-Beast-Tyrant {
             height: 83px;
             width: 91px;
-            background: url('./skin.png') -965px -118px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -965px -118px;
         }
     
         .class-icons-Berserker {
             height: 90px;
             width: 80px;
-            background: url('./skin.png') -1803px -441px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1803px -441px;
         }
     
         .class-icons-Brute {
             height: 80px;
             width: 86px;
-            background: url('./skin.png') -1930px -862px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1930px -862px;
         }
     
         .class-icons-Cragheart {
             height: 88px;
             width: 83px;
-            background: url('./skin.png') -1311px -83px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1311px -83px;
         }
     
         .class-icons-Doomstalker {
             height: 83px;
             width: 82px;
-            background: url('./skin.png') -1483px -96px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1483px -96px;
         }
     
         .class-icons-Elementalist {
             height: 81px;
             width: 84px;
-            background: url('./skin.png') -1567px -98px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1567px -98px;
         }
     
         .class-icons-Mindthief {
             height: 83px;
             width: 89px;
-            background: url('./skin.png') -1934px -629px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1934px -629px;
         }
     
         .class-icons-Nightshroud {
             height: 86px;
             width: 85px;
-            background: url('./skin.png') -1889px -769px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1889px -769px;
         }
     
         .class-icons-Plagueherald {
             height: 91px;
             width: 67px;
-            background: url('./skin.png') -1731px -183px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1731px -183px;
         }
     
         .class-icons-Quartermaster {
             height: 92px;
             width: 67px;
-            background: url('./skin.png') -1848px -533px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1848px -533px;
         }
     
         .class-icons-Sawbones {
             height: 68px;
             width: 92px;
-            background: url('./skin.png') -1128px -103px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -103px;
         }
     
         .class-icons-Scoundrel {
             height: 84px;
             width: 81px;
-            background: url('./skin.png') -1851px -627px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1851px -627px;
         }
     
         .class-icons-Soothsinger {
             height: 79px;
             width: 79px;
-            background: url('./skin.png') -1917px -546px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1917px -546px;
         }
     
         .class-icons-Spellweaver {
             height: 93px;
             width: 93px;
-            background: url('./skin.png') -1636px -181px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1636px -181px;
         }
     
         .class-icons-Summoner {
             height: 90px;
             width: 89px;
-            background: url('./skin.png') -1885px -441px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1885px -441px;
         }
     
         .class-icons-Sunkeeper {
             height: 90px;
             width: 91px;
-            background: url('./skin.png') -1775px -349px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1775px -349px;
         }
     
         .class-icons-Tinkerer {
             height: 88px;
             width: 87px;
-            background: url('./skin.png') -1222px -83px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1222px -83px;
         }
     
         .cloud {
             height: 77px;
             width: 157px;
-            background: url('./skin.png') -1575px -548px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1575px -548px;
         }
     
         .conditions-disarm {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1948px -204px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -204px;
         }
     
         .conditions-disarm-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -2002px -1016px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2002px -1016px;
         }
     
         .conditions-immobilize {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1984px -207px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -207px;
         }
     
         .conditions-immobilize-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -2002px -969px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2002px -969px;
         }
     
         .conditions-invisible {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1984px -171px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -171px;
         }
     
         .conditions-invisible-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1011px -71px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1011px -71px;
         }
     
         .conditions-muddle {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1475px -58px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1475px -58px;
         }
     
         .conditions-muddle-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1011px -24px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1011px -24px;
         }
     
         .conditions-poison {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1511px -60px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1511px -60px;
         }
     
         .conditions-poison-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1058px -4px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1058px -4px;
         }
     
         .conditions-star {
             height: 33px;
             width: 34px;
-            background: url('./skin.png') -1653px -61px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1653px -61px;
         }
     
         .conditions-star-large {
             height: 44px;
             width: 44px;
-            background: url('./skin.png') -1976px -442px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1976px -442px;
         }
     
         .conditions-strengthen {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1547px -60px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1547px -60px;
         }
     
         .conditions-strengthen-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1998px -582px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1998px -582px;
         }
     
         .conditions-stun {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1583px -62px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1583px -62px;
         }
     
         .conditions-stun-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1998px -535px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1998px -535px;
         }
     
         .conditions-summon {
             height: 36px;
             width: 36px;
-            background: url('./skin.png') -1282px -45px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1282px -45px;
         }
     
         .conditions-summon-large {
             height: 47px;
             width: 47px;
-            background: url('./skin.png') -1058px -102px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1058px -102px;
         }
     
         .conditions-summonNew {
             height: 36px;
             width: 36px;
-            background: url('./skin.png') -1320px -45px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1320px -45px;
         }
     
         .conditions-wound {
             height: 34px;
             width: 34px;
-            background: url('./skin.png') -1725px -60px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1725px -60px;
         }
     
         .conditions-wound-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -1976px -488px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1976px -488px;
         }
     
         .curse-large {
             height: 45px;
             width: 45px;
-            background: url('./skin.png') -2002px -1063px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2002px -1063px;
         }
     
         .dim-corners {
             height: 29px;
             width: 29px;
-            background: url('./skin.png') -1498px -2px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1498px -2px;
         }
     
         .element-bg {
             height: 100px;
             width: 100px;
-            background: url('./skin.png') -1673px -341px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1673px -341px;
         }
     
         .element-glow {
             height: 112px;
             width: 112px;
-            background: url('./skin.png') -729px -142px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -729px -142px;
         }
     
         .element-glow-half {
             height: 63px;
             width: 111px;
-            background: url('./skin.png') -1653px -276px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1653px -276px;
         }
     
         .element-ring {
             height: 104px;
             width: 104px;
-            background: url('./skin.png') -1567px -344px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1567px -344px;
         }
     
         .fonts-fancyExtraLargeOutlineNumbers {
             height: 45px;
             width: 274px;
-            background: url('./skin.png') -1575px -627px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1575px -627px;
         }
     
         .fonts-fancyLargeOutline {
             height: 149px;
             width: 505px;
-            background: url('./skin.png') -1px -105px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -105px;
         }
     
         .fonts-plainExtraLargeNumbers {
             height: 42px;
             width: 287px;
-            background: url('./skin.png') -1621px -857px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1621px -857px;
         }
     
         .fonts-plainExtraLargeOutlineNumbers {
             height: 41px;
             width: 307px;
-            background: url('./skin.png') -1621px -901px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1621px -901px;
         }
     
         .fonts-plainLargeNumbers {
             height: 25px;
             width: 255px;
-            background: url('./skin.png') -1px -6px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -6px;
         }
     
         .fonts-plainLargeOutline {
             height: 70px;
             width: 503px;
-            background: url('./skin.png') -1px -33px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -33px;
         }
     
         .fonts-plainMedium {
             height: 47px;
             width: 503px;
-            background: url('./skin.png') -506px -24px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -506px -24px;
         }
     
         .fonts-plainMediumOutline {
             height: 56px;
             width: 503px;
-            background: url('./skin.png') -1116px -886px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1116px -886px;
         }
     
         .fonts-plainSmall {
             height: 43px;
             width: 506px;
-            background: url('./skin.png') -1128px -181px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -181px;
         }
     
         .fonts-plainSmallOutline {
             height: 52px;
             width: 506px;
-            background: url('./skin.png') -1128px -226px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -226px;
         }
     
         .leaves {
             height: 69px;
             width: 68px;
-            background: url('./skin.png') -1058px -151px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1058px -151px;
         }
     
         .menu-arrow {
             height: 79px;
             width: 44px;
-            background: url('./skin.png') -1984px -1300px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1300px;
         }
     
         .menu-bg {
             height: 315px;
             width: 251px;
-            background: url('./skin.png') -879px -535px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -879px -535px;
         }
     
         .menu-bottom {
             height: 21px;
             width: 196px;
-            background: url('./skin.png') -258px -10px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -258px -10px;
         }
     
         .menu-corner {
             height: 37px;
             width: 37px;
-            background: url('./skin.png') -1796px -674px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1796px -674px;
         }
     
         .menu-left {
             height: 255px;
             width: 21px;
-            background: url('./skin.png') -1984px -1792px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1792px;
         }
     
         .menu-right {
             height: 255px;
             width: 18px;
-            background: url('./skin.png') -1984px -1535px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1535px;
         }
     
         .menu-top {
             height: 17px;
             width: 196px;
-            background: url('./skin.png') -843px -203px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -843px -203px;
         }
     
         .menu-vignette {
             height: 311px;
             width: 247px;
-            background: url('./skin.png') -879px -222px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -879px -222px;
         }
     
         .network-connected {
             height: 38px;
             width: 37px;
-            background: url('./skin.png') -2007px -1820px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2007px -1820px;
         }
     
         .network-disconnected {
             height: 31px;
             width: 31px;
-            background: url('./skin.png') -1866px -104px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1866px -104px;
         }
     
         .network-server {
             height: 36px;
             width: 30px;
-            background: url('./skin.png') -1948px -312px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1948px -312px;
         }
     
         .player-hp {
             height: 6px;
             width: 117px;
-            background: url('./skin.png') -1128px -173px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -173px;
         }
     
         .psd-add {
             height: 48px;
             width: 48px;
-            background: url('./skin.png') -1984px -1199px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1199px;
         }
     
         .psd-bar-bottom {
             height: 131px;
             width: 1113px;
-            background: url('./skin.png') -1px -852px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -852px;
         }
     
         .psd-bar-top {
             height: 132px;
             width: 1113px;
-            background: url('./skin.png') -1px -985px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1px -985px;
         }
     
         .psd-coins {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1543px -26px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1543px -26px;
         }
     
         .psd-conditions {
             height: 69px;
             width: 120px;
-            background: url('./skin.png') -843px -132px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -843px -132px;
         }
     
         .psd-element-air {
             height: 55px;
             width: 84px;
-            background: url('./skin.png') -1567px -287px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1567px -287px;
         }
     
         .psd-element-dark {
             height: 61px;
             width: 77px;
-            background: url('./skin.png') -1396px -31px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1396px -31px;
         }
     
         .psd-element-earth {
             height: 69px;
             width: 62px;
-            background: url('./skin.png') -1984px -1381px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1381px;
         }
     
         .psd-element-fire {
             height: 81px;
             width: 61px;
-            background: url('./skin.png') -1984px -1452px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1452px;
         }
     
         .psd-element-ice {
             height: 83px;
             width: 75px;
-            background: url('./skin.png') -1653px -96px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1653px -96px;
         }
     
         .psd-element-light {
             height: 85px;
             width: 85px;
-            background: url('./skin.png') -1396px -94px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1396px -94px;
         }
     
         .psd-flying-stat {
             height: 40px;
             width: 37px;
-            background: url('./skin.png') -803px -100px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -803px -100px;
         }
     
         .psd-level {
             height: 23px;
             width: 32px;
-            background: url('./skin.png') -1475px -33px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1475px -33px;
         }
     
         .psd-level-white {
             height: 23px;
             width: 32px;
-            background: url('./skin.png') -1509px -33px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1509px -33px;
         }
     
         .psd-loot-large {
             height: 47px;
             width: 39px;
-            background: url('./skin.png') -2007px -1860px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2007px -1860px;
         }
     
         .psd-menu {
             height: 40px;
             width: 48px;
-            background: url('./skin.png') -1984px -1157px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1984px -1157px;
         }
     
         .psd-monster-boss {
             height: 96px;
             width: 112px;
-            background: url('./skin.png') -1575px -450px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1575px -450px;
         }
     
         .psd-monster-elite {
             height: 92px;
             width: 112px;
-            background: url('./skin.png') -1734px -533px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1734px -533px;
         }
     
         .psd-monster-hp {
             height: 6px;
             width: 98px;
-            background: url('./skin.png') -1247px -173px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1247px -173px;
         }
     
         .psd-monster-normal {
             height: 88px;
             width: 112px;
-            background: url('./skin.png') -1689px -443px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1689px -443px;
         }
     
         .psd-monsterAbility-back {
             height: 209px;
             width: 441px;
-            background: url('./skin.png') -1116px -944px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1116px -944px;
         }
     
         .psd-monsterAbility-front {
             height: 209px;
             width: 441px;
-            background: url('./skin.png') -1559px -944px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1559px -944px;
         }
     
         .psd-monsterStats-boss {
             height: 209px;
             width: 441px;
-            background: url('./skin.png') -1132px -675px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1132px -675px;
         }
     
         .psd-monsterStats-boss-overlay {
             height: 182px;
             width: 437px;
-            background: url('./skin.png') -1128px -280px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -280px;
         }
     
         .psd-monsterStats-elite-overlay {
             height: 181px;
             width: 219px;
-            background: url('./skin.png') -508px -73px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -508px -73px;
         }
     
         .psd-monsterStats-normal {
             height: 209px;
             width: 441px;
-            background: url('./skin.png') -1132px -464px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1132px -464px;
         }
     
         .psd-monsterStats-normal-overlay {
             height: 181px;
             width: 219px;
-            background: url('./skin.png') -1575px -674px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1575px -674px;
         }
     
         .psd-skull {
             height: 49px;
             width: 46px;
-            background: url('./skin.png') -1058px -51px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1058px -51px;
         }
     
         .psd-sub {
             height: 12px;
             width: 48px;
-            background: url('./skin.png') -456px -19px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -456px -19px;
         }
     
         .psd-traps {
             height: 36px;
             width: 42px;
-            background: url('./skin.png') -1238px -45px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1238px -45px;
         }
     
         .psd-xp {
             height: 32px;
             width: 32px;
-            background: url('./skin.png') -1832px -113px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1832px -113px;
         }
     
         .psd-xp-large {
             height: 47px;
             width: 47px;
-            background: url('./skin.png') -916px -83px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -916px -83px;
         }
     
         .ripple {
             height: 89px;
             width: 89px;
-            background: url('./skin.png') -1868px -350px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1868px -350px;
         }
     
         .rounded {
             height: 29px;
             width: 29px;
-            background: url('./skin.png') -2018px -104px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2018px -104px;
         }
     
         .scroll-vert {
             height: 80px;
             width: 13px;
-            background: url('./skin.png') -2034px -1167px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2034px -1167px;
         }
     
         .selected {
             height: 88px;
             width: 88px;
-            background: url('./skin.png') -1959px -351px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1959px -351px;
         }
     
         .textfield {
             height: 36px;
             width: 39px;
-            background: url('./skin.png') -2007px -1782px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -2007px -1782px;
         }
     
         .textfield-cursor {
             height: 13px;
             width: 2px;
-            background: url('./skin.png') -1128px -520px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1128px -520px;
         }
     
         .white {
             height: 3px;
             width: 3px;
-            background: url('./skin.png') -1889px -713px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin.png') no-repeat -1889px -713px;
         }
     
         .bg-bg {
             height: 1024px;
             width: 1024px;
-            background: url('./skin2.png') -0px -0px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin2.png') no-repeat -0px -0px;
         }
     
         .class-bgs-locked-Beast-Tyrant {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -1px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -1px -1px;
         }
     
         .class-bgs-locked-Berserker {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -156px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -156px -1px;
         }
     
         .class-bgs-locked-Doomstalker {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -311px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -311px -1px;
         }
     
         .class-bgs-locked-Elementalist {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -466px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -466px -1px;
         }
     
         .class-bgs-locked-Nightshroud {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -621px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -621px -1px;
         }
     
         .class-bgs-locked-Plagueherald {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -776px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -776px -1px;
         }
     
         .class-bgs-locked-Quartermaster {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -931px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -931px -1px;
         }
     
         .class-bgs-locked-Sawbones {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -1086px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -1086px -1px;
         }
     
         .class-bgs-locked-Soothsinger {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -1241px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -1241px -1px;
         }
     
         .class-bgs-locked-Summoner {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -1396px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -1396px -1px;
         }
     
         .class-bgs-locked-Sunkeeper {
             height: 153px;
             width: 1103px;
-            background: url('./skin3.png') -1551px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin3.png') no-repeat -1551px -1px;
         }
     
         .esoteric-esoteric_013 {
             height: 59px;
             width: 90px;
-            background: url('./skin4.png') -1768px -684px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1768px -684px;
         }
     
         .esoteric-esoteric_014 {
             height: 62px;
             width: 90px;
-            background: url('./skin4.png') -1262px -540px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1262px -540px;
         }
     
         .esoteric-esoteric_015 {
             height: 72px;
             width: 143px;
-            background: url('./skin4.png') -1495px -484px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1495px -484px;
         }
     
         .esoteric-esoteric_016 {
             height: 83px;
             width: 143px;
-            background: url('./skin4.png') -1211px -2px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1211px -2px;
         }
     
         .esoteric-esoteric_017 {
             height: 86px;
             width: 143px;
-            background: url('./skin4.png') -1510px -557px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1510px -557px;
         }
     
         .esoteric-esoteric_018 {
             height: 89px;
             width: 156px;
-            background: url('./skin4.png') -480px -988px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -480px -988px;
         }
     
         .esoteric-esoteric_019 {
             height: 92px;
             width: 153px;
-            background: url('./skin4.png') -1623px -1120px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1623px -1120px;
         }
     
         .esoteric-esoteric_020 {
             height: 108px;
             width: 170px;
-            background: url('./skin4.png') -1022px -990px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1022px -990px;
         }
     
         .esoteric-esoteric_021 {
             height: 117px;
             width: 198px;
-            background: url('./skin4.png') -1250px -1001px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1250px -1001px;
         }
     
         .esoteric-esoteric_022 {
             height: 127px;
             width: 230px;
-            background: url('./skin4.png') -1528px -758px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1528px -758px;
         }
     
         .esoteric-esoteric_023 {
             height: 139px;
             width: 269px;
-            background: url('./skin4.png') -1211px -86px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1211px -86px;
         }
     
         .esoteric-esoteric_024 {
             height: 143px;
             width: 287px;
-            background: url('./skin4.png') -1228px -1200px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1228px -1200px;
         }
     
         .esoteric-esoteric_025 {
             height: 154px;
             width: 339px;
-            background: url('./skin4.png') -570px -990px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -570px -990px;
         }
     
         .esoteric-esoteric_026 {
             height: 157px;
             width: 356px;
-            background: url('./skin4.png') -0px -630px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -0px -630px;
         }
     
         .esoteric-esoteric_027 {
             height: 157px;
             width: 351px;
-            background: url('./skin4.png') -0px -278px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -0px -278px;
         }
     
         .esoteric-esoteric_028 {
             height: 157px;
             width: 348px;
-            background: url('./skin4.png') -158px -638px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -158px -638px;
         }
     
         .esoteric-esoteric_029 {
             height: 152px;
             width: 337px;
-            background: url('./skin4.png') -488px -308px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -488px -308px;
         }
     
         .esoteric-esoteric_030 {
             height: 149px;
             width: 317px;
-            background: url('./skin4.png') -959px -672px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -959px -672px;
         }
     
         .esoteric-esoteric_031 {
             height: 147px;
             width: 302px;
-            background: url('./skin4.png') -1109px -687px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1109px -687px;
         }
     
         .esoteric-esoteric_032 {
             height: 147px;
             width: 283px;
-            background: url('./skin4.png') -1372px -1204px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1372px -1204px;
         }
     
         .esoteric-esoteric_033 {
             height: 147px;
             width: 272px;
-            background: url('./skin4.png') -1694px -536px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1694px -536px;
         }
     
         .esoteric-esoteric_034 {
             height: 142px;
             width: 247px;
-            background: url('./skin4.png') -1528px -886px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1528px -886px;
         }
     
         .esoteric-esoteric_035 {
             height: 129px;
             width: 197px;
-            background: url('./skin4.png') -1368px -1002px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1368px -1002px;
         }
     
         .esoteric-esoteric_036 {
             height: 124px;
             width: 174px;
-            background: url('./skin4.png') -1498px -1029px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1498px -1029px;
         }
     
         .esoteric-esoteric_037 {
             height: 118px;
             width: 165px;
-            background: url('./skin4.png') -1131px -995px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1131px -995px;
         }
     
         .esoteric-esoteric_038 {
             height: 113px;
             width: 165px;
-            background: url('./skin4.png') -1528px -644px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1528px -644px;
         }
     
         .esoteric-esoteric_039 {
             height: 111px;
             width: 159px;
-            background: url('./skin4.png') -910px -990px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -910px -990px;
         }
     
         .esoteric-esoteric_040 {
             height: 110px;
             width: 151px;
-            background: url('./skin4.png') -1262px -384px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1262px -384px;
         }
     
         .esoteric-esoteric_041 {
             height: 110px;
             width: 157px;
-            background: url('./skin4.png') -264px -987px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -264px -987px;
         }
     
         .esoteric-esoteric_042 {
             height: 110px;
             width: 154px;
-            background: url('./skin4.png') -1355px -605px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1355px -605px;
         }
     
         .esoteric-esoteric_043 {
             height: 104px;
             width: 156px;
-            background: url('./skin4.png') -375px -988px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -375px -988px;
         }
     
         .esoteric-esoteric_044 {
             height: 96px;
             width: 121px;
-            background: url('./skin4.png') -1373px -508px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1373px -508px;
         }
     
         .esoteric-esoteric_045 {
             height: 91px;
             width: 112px;
-            background: url('./skin4.png') -1490px -392px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1490px -392px;
         }
     
         .esoteric-esoteric_046 {
             height: 92px;
             width: 112px;
-            background: url('./skin4.png') -1262px -603px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1262px -603px;
         }
     
         .esoteric-esoteric_047 {
             height: 92px;
             width: 112px;
-            background: url('./skin4.png') -1881px -147px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1881px -147px;
         }
     
         .esoteric-esoteric_048 {
             height: 93px;
             width: 112px;
-            background: url('./skin4.png') -1881px -240px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1881px -240px;
         }
     
         .esoteric-esoteric_049 {
             height: 93px;
             width: 112px;
-            background: url('./skin4.png') -1787px -221px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1787px -221px;
         }
     
         .esoteric-esoteric_050 {
             height: 94px;
             width: 113px;
-            background: url('./skin4.png') -1691px -48px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1691px -48px;
         }
     
         .esoteric-esoteric_051 {
             height: 94px;
             width: 113px;
-            background: url('./skin4.png') -1786px -48px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1786px -48px;
         }
     
         .esoteric-esoteric_052 {
             height: 95px;
             width: 113px;
-            background: url('./skin4.png') -1691px -162px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1691px -162px;
         }
     
         .esoteric-esoteric_053 {
             height: 96px;
             width: 113px;
-            background: url('./skin4.png') -1748px -334px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1748px -334px;
         }
     
         .esoteric-esoteric_054 {
             height: 98px;
             width: 113px;
-            background: url('./skin4.png') -1863px -334px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1863px -334px;
         }
     
         .esoteric-esoteric_055 {
             height: 102px;
             width: 114px;
-            background: url('./skin4.png') -1863px -433px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1863px -433px;
         }
     
         .esoteric-esoteric_056 {
             height: 104px;
             width: 114px;
-            background: url('./skin4.png') -1748px -431px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1748px -431px;
         }
     
         .esoteric-esoteric_057 {
             height: 106px;
             width: 114px;
-            background: url('./skin4.png') -1584px -46px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1584px -46px;
         }
     
         .esoteric-esoteric_058 {
             height: 108px;
             width: 114px;
-            background: url('./skin4.png') -1639px -421px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1639px -421px;
         }
     
         .esoteric-esoteric_059 {
             height: 109px;
             width: 114px;
-            background: url('./skin4.png') -1581px -161px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1581px -161px;
         }
     
         .esoteric-esoteric_060 {
             height: 111px;
             width: 115px;
-            background: url('./skin4.png') -1581px -276px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1581px -276px;
         }
     
         .esoteric-esoteric_061 {
             height: 112px;
             width: 115px;
-            background: url('./skin4.png') -1471px -44px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1471px -44px;
         }
     
         .esoteric-esoteric_062 {
             height: 113px;
             width: 115px;
-            background: url('./skin4.png') -1467px -276px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1467px -276px;
         }
     
         .esoteric-esoteric_063 {
             height: 113px;
             width: 115px;
-            background: url('./skin4.png') -1467px -160px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1467px -160px;
         }
     
         .esoteric-esoteric_064 {
             height: 115px;
             width: 115px;
-            background: url('./skin4.png') -1351px -151px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1351px -151px;
         }
     
         .esoteric-esoteric_065 {
             height: 115px;
             width: 115px;
-            background: url('./skin4.png') -1355px -35px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1355px -35px;
         }
     
         .esoteric-esoteric_066 {
             height: 115px;
             width: 116px;
-            background: url('./skin4.png') -1373px -392px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1373px -392px;
         }
     
         .esoteric-esoteric_067 {
             height: 115px;
             width: 116px;
-            background: url('./skin4.png') -1351px -267px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1351px -267px;
         }
     
         .esoteric-esoteric_068 {
             height: 240px;
             width: 265px;
-            background: url('./skin4.png') -1777px -1222px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1777px -1222px;
         }
     
         .esoteric-esoteric_069 {
             height: 281px;
             width: 309px;
-            background: url('./skin4.png') -929px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -929px -1px;
         }
     
         .esoteric-esoteric_070 {
             height: 329px;
             width: 344px;
-            background: url('./skin4.png') -158px -293px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -158px -293px;
         }
     
         .esoteric-esoteric_071 {
             height: 327px;
             width: 342px;
-            background: url('./skin4.png') -264px -1145px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -264px -1145px;
         }
     
         .esoteric-esoteric_072 {
             height: 327px;
             width: 340px;
-            background: url('./skin4.png') -316px -646px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -316px -646px;
         }
     
         .esoteric-esoteric_073 {
             height: 326px;
             width: 337px;
-            background: url('./skin4.png') -592px -1150px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -592px -1150px;
         }
     
         .esoteric-esoteric_074 {
             height: 323px;
             width: 334px;
-            background: url('./skin4.png') -641px -311px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -641px -311px;
         }
     
         .esoteric-esoteric_075 {
             height: 314px;
             width: 326px;
-            background: url('./skin4.png') -644px -663px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -644px -663px;
         }
     
         .esoteric-esoteric_076 {
             height: 308px;
             width: 326px;
-            background: url('./skin4.png') -919px -1161px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -919px -1161px;
         }
     
         .esoteric-esoteric_077 {
             height: 304px;
             width: 319px;
-            background: url('./skin4.png') -609px -3px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -609px -3px;
         }
     
         .esoteric-esoteric_078 {
             height: 296px;
             width: 315px;
-            background: url('./skin4.png') -965px -356px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -965px -356px;
         }
     
         .esoteric-esoteric_079 {
             height: 290px;
             width: 310px;
-            background: url('./skin4.png') -298px -2px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -298px -2px;
         }
     
         .esoteric-esoteric_080 {
             height: 277px;
             width: 297px;
-            background: url('./skin4.png') -0px -0px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -0px -0px;
         }
     
         .esoteric-esoteric_081 {
             height: 270px;
             width: 284px;
-            background: url('./skin4.png') -1257px -716px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1257px -716px;
         }
     
         .esoteric-esoteric_082 {
             height: 256px;
             width: 274px;
-            background: url('./skin4.png') -1520px -1213px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1520px -1213px;
         }
     
         .esoteric-esoteric_083 {
             height: 241px;
             width: 260px;
-            background: url('./skin4.png') -1776px -744px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1776px -744px;
         }
     
         .esoteric-esoteric_084 {
             height: 216px;
             width: 232px;
-            background: url('./skin4.png') -1777px -1005px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1777px -1005px;
         }
     
         .esoteric-flare {
             height: 263px;
             width: 500px;
-            background: url('./skin4.png') -0px -987px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -0px -987px;
         }
     
         .esoteric-flash {
             height: 73px;
             width: 73px;
-            background: url('./skin4.png') -1694px -684px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1694px -684px;
         }
     
         .esoteric-logo {
             height: 98px;
             width: 99px;
-            background: url('./skin4.png') -1881px -48px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1881px -48px;
         }
     
         .esoteric-text {
             height: 62px;
             width: 153px;
-            background: url('./skin4.png') -1623px -1057px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin4.png') no-repeat -1623px -1057px;
         }
     
         .logo-logo {
             height: 367px;
             width: 440px;
-            background: url('./skin5.png') -1px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin5.png') no-repeat -1px -1px;
         }
     
         .monsters-Ancient-Artillery {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -1056px;
         }
     
         .monsters-Bandit-Archer {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -845px;
         }
     
         .monsters-Bandit-Commander {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -1056px;
         }
     
         .monsters-Bandit-Guard {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -634px;
         }
     
         .monsters-Black-Imp {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -845px;
         }
     
         .monsters-Captain-of-the-Guard {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -1056px;
         }
     
         .monsters-Cave-Bear {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -423px;
         }
     
         .monsters-City-Archer {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -634px;
         }
     
         .monsters-City-Guard {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -845px;
         }
     
         .monsters-Cultist {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -1056px;
         }
     
         .monsters-Dark-Rider {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -212px;
         }
     
         .monsters-Deep-Terror {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -423px;
         }
     
         .monsters-Earth-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -634px;
         }
     
         .monsters-Elder-Drake {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -845px;
         }
     
         .monsters-Flame-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -1056px;
         }
     
         .monsters-Forest-Imp {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1px -1px;
         }
     
         .monsters-Frost-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -212px;
         }
     
         .monsters-Giant-Viper {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -423px;
         }
     
         .monsters-Harrower-Infester {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -634px;
         }
     
         .monsters-Hound {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -845px;
         }
     
         .monsters-Inox-Archer {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -1056px;
         }
     
         .monsters-Inox-Bodyguard {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -210px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -210px -1px;
         }
     
         .monsters-Inox-Guard {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -212px;
         }
     
         .monsters-Inox-Shaman {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -423px;
         }
     
         .monsters-Jekserah {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -634px;
         }
     
         .monsters-Living-Bones {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -845px;
         }
     
         .monsters-Living-Corpse {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -1056px;
         }
     
         .monsters-Living-Spirit {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -419px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -419px -1px;
         }
     
         .monsters-Lurker {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -212px;
         }
     
         .monsters-Merciless-Overseer {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -423px;
         }
     
         .monsters-Night-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -634px;
         }
     
         .monsters-Ooze {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -845px;
         }
     
         .monsters-Prime-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1464px -1056px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1464px -1056px;
         }
     
         .monsters-Rending-Drake {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -628px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -628px -1px;
         }
     
         .monsters-Savvas-Icestorm {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -212px;
         }
     
         .monsters-Savvas-Lavaflow {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -423px;
         }
     
         .monsters-Spitting-Drake {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -634px;
         }
     
         .monsters-Stone-Golem {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1464px -845px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1464px -845px;
         }
     
         .monsters-Sun-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -837px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -837px -1px;
         }
     
         .monsters-The-Betrayer {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -212px;
         }
     
         .monsters-The-Colorless {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -423px;
         }
     
         .monsters-The-Gloom {
             height: 206px;
             width: 207px;
-            background: url('./skin6.png') -1464px -215px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1464px -215px;
         }
     
         .monsters-The-Sightless-Eye {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1464px -634px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1464px -634px;
         }
     
         .monsters-Vermling-Scout {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1046px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1046px -1px;
         }
     
         .monsters-Vermling-Shaman {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -212px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -212px;
         }
     
         .monsters-Wind-Demon {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1464px -423px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1464px -423px;
         }
     
         .monsters-Winged-Horror {
             height: 209px;
             width: 207px;
-            background: url('./skin6.png') -1255px -1px;
+            margin-left:auto;
+            margin-right:auto;
+            background: url('./skin6.png') no-repeat -1255px -1px;
         }
     
