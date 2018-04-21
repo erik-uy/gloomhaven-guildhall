@@ -66,16 +66,13 @@ export default {
       strengthBackground:function(){
           var r={};
           switch (2-this.strength){
-              case 0: r='background:'+'darkgray'
-              console.log('weak'); break;
-              case 1: r= 'background:'+'linear-gradient( to right,'+this.elementColor +' 0%, '+this.elementColor+' 50%, darkgray 51%,darkgray 100%); border:3px '+this.elementColor+' solid'                
-                //'background':this.elementColor
-              console.log('waning',r); break;
-              case 2: r= 'background:'+this.elementColor+'; border:3px '+this.elementColor+' solid'
-              console.log('strong'); break;
+              case 0: r='background:'+'darkgray';
+                break;
+              case 1: r= 'background:'+'linear-gradient( to right,'+this.elementColor +' 0%, '+this.elementColor+' 40%, darkgray 41%,darkgray 100%); border:3px '+this.elementColor+' solid'                
+                break;
+              case 2: r= 'background:'+this.elementColor+'; border:3px '+this.elementColor+' solid';
+                break;
           };
-
-          console.log('returned ',r);
           return r;
       },
       elementColor:function(){
@@ -84,9 +81,7 @@ export default {
   },
   methods :{
       trigger:function(event){
-          
           this.strength=++this.strength%3;
-          console.log(this.strength)
       }
   },
   props: {

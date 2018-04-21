@@ -5,34 +5,29 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+// require styles
 import 'vuetify/dist/vuetify.min.css'
 import '../src/assets/spritemap/skin.css'
 
 Vue.use(Vuetify)
 Vue.config.productionTip = false
 
-
 /**
- * 
- * purple - b092bd accent
- * gold - e1c889 
- * red -e89d90
- * dark gold - 74581b
- * dark red - 4e1212
- * green-b0d38c
- * brown - 87654a
- * dark brown - 241b15
+gold - 765a1c
+green - bedc9b
+dgreen-2a3323
+purple - bb97c6
+red-eaa295
+dred-7d2523
+yellow-eecb6f
+dyellow-e0ab23
+gold-765a1c
+dgold-4b340e
+dbrown-453225
+brown-d3b89d
+blue-5682b2
  */
 new Vue({
-  theme:{
-    primary: "#87654a",
-    secondary: "#e1c889",
-    accent: "#b0d38c",
-    error: "#4e1212",
-    warning: "#e89d90",
-    info: "#b092bd",
-    success: "#b092bd"
-  },
   router,
   store,
   render: h => h(App)
