@@ -76,12 +76,15 @@
 
       <v-content>
         <v-container fluid>
-          <v-layout row wrap>
+          <v-layout>
             <swiper :options="swiperOption">
               <swiper-slide v-for="n in monsters" v-bind:key="n" :type="n">
-                <Monster :type="n"/>
+                <Monster :type="n" :height="maxHeight"/>
               </swiper-slide>
+              
               <div class="swiper-pagination" slot="pagination"></div>
+              <div class="swiper-button-prev" slot="button-prev"></div>
+              <div class="swiper-button-next" slot="button-next"></div>
             </swiper>
           </v-layout>
         </v-container>
@@ -118,8 +121,11 @@
 
 <style>
   .toolbar-icon{
-    height:40px;
-    width:40px;
+    height:41px;
+    width:41px;
+  }
+  .card__title--primary{
+    padding-top:0px
   }
 </style>
 
@@ -139,11 +145,11 @@ import 'swiper/dist/css/swiper.css'
       return {
         drawer: null,
         monsters: [
-          'Vermling-Shaman',
-          'Inox-Shaman',
-          'Rending-Drake',
+          'Vermling Shaman',
+          'Inox Shaman',
+          'Rending Drake',
           'Ooze',
-          'Living-Spirit',
+          'Living Spirit',
         ],
 
         direction: 'bottom',
@@ -155,14 +161,22 @@ import 'swiper/dist/css/swiper.css'
         right: true,
         bottom: true,
         left: false,
-        transition: 'slide-y-reverse-transition',
+        transition: 'slide-y-transition',
         swiperOption: {
-                  slidesPerView: 4,
-                  spaceBetween: 3,
-                  pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true
-                  }
+          // height:"100px",
+//          autoHeight: true,
+          mousewheel: true,
+          slidesPerView: 4,
+          loop: true,
+          // spaceBetween: 1,
+          pagination: {
+            el: '.swiper-pagination',
+            clickable: true
+          },
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev'
+          }
         }
       };
     },
@@ -170,6 +184,11 @@ import 'swiper/dist/css/swiper.css'
       Monster,
       Element,
       VueAwesomeSwiper,swiper,swiperSlide
+    },
+    computed:{
+      maxHeight:function(){
+        return window.innerHeight-48-30;
+      }
     }
   }
 </script>
