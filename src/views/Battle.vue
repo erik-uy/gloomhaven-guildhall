@@ -17,10 +17,11 @@
         <v-spacer></v-spacer>
         <v-spacer></v-spacer>
 
-        <v-speed-dial small direction="bottom" :transition= "'slide-y-reverse-transition'" >
+        <v-speed-dial small direction="bottom" :transition= "'slide-y-reverse-transition'" v-model="fab">
+          
           <v-btn flat small slot="activator" color="teal" dark fab hover v-model="fab">
             <v-icon large >settings</v-icon>
-            <v-icon large >close</v-icon>
+            <v-icon large >settings</v-icon>
           </v-btn>
 
           <v-btn fab dark color="brown" >
@@ -79,40 +80,12 @@
           <v-layout>
             <swiper :options="swiperOption">
               <swiper-slide v-for="n in monsters" v-bind:key="n" :type="n">
-                <Monster :type="n" :height="maxHeight"/>
+                <Monster :type="n" :height="maxHeight" :scenarioLevel="1"/>
               </swiper-slide>
-              
               <div class="swiper-pagination" slot="pagination"></div>
-              <div class="swiper-button-prev" slot="button-prev"></div>
-              <div class="swiper-button-next" slot="button-next"></div>
             </swiper>
           </v-layout>
         </v-container>
-
-        <!-- <v-container fluid> -->
-          <!-- <v-layout row wrap> -->
-            <!-- <v-flex v-for="n in monsters" v-bind:key="n" :type="n"> -->
-              <!-- <Monster :type="n"/> -->
-            <!-- </v-flex> -->
-          <!-- </v-layout> -->
-          <!-- <v-layout row wrap> -->
-            <!-- <swiper :options="swiperOption" ref="mySwiper" @someSwiperEvent="callback">
-            
-              <swiper-slide>I'm Slide 1</swiper-slide>
-              <swiper-slide>I'm Slide 2</swiper-slide>
-              <swiper-slide>I'm Slide 3</swiper-slide>
-              <swiper-slide>I'm Slide 4</swiper-slide>
-              <swiper-slide>I'm Slide 5</swiper-slide>
-              <swiper-slide>I'm Slide 6</swiper-slide>
-              <swiper-slide>I'm Slide 7</swiper-slide>
-            
-              <div class="swiper-pagination"  slot="pagination"></div>
-              <div class="swiper-button-prev" slot="button-prev"></div>
-              <div class="swiper-button-next" slot="button-next"></div>
-              <div class="swiper-scrollbar"   slot="scrollbar"></div>
-            </swiper> -->
-          <!-- </v-layout> -->
-        <!-- </v-container> -->
       </v-content>
     </div>
   </div>
@@ -142,16 +115,21 @@ import 'swiper/dist/css/swiper.css'
 
   export default {
     data () {
-      return {
-        drawer: null,
-        monsters: [
+      var monsters= [
           'Vermling Shaman',
           'Inox Shaman',
           'Rending Drake',
           'Ooze',
           'Living Spirit',
-        ],
+        ];
+        
+      var monsterWidth=222;
+      var panelsPerScreen=Math.floor(window.innerWidth/monsterWidth);
+      panelsPerScreen = panelsPerScreen>monsters.length?monsters.length:panelsPerScreen;
 
+      return {
+        drawer: null,
+        monsters: monsters,
         direction: 'bottom',
         fab: false,
         fling: false,
@@ -166,9 +144,9 @@ import 'swiper/dist/css/swiper.css'
           // height:"100px",
 //          autoHeight: true,
           mousewheel: true,
-          slidesPerView: 4,
+          slidesPerView:panelsPerScreen,
           loop: true,
-          // spaceBetween: 1,
+          spaceBetween: 15,
           pagination: {
             el: '.swiper-pagination',
             clickable: true
@@ -187,7 +165,11 @@ import 'swiper/dist/css/swiper.css'
     },
     computed:{
       maxHeight:function(){
-        return window.innerHeight-48-30;
+        return window.innerHeight-48-40;
+      },
+      panelCount:function(){
+        var panelsPerScreen=Math.floor(window.innerWidth/this.monsterWidth);
+        return panelsPerScreen>this.monsters.length?this.monsters.length:panelsPerScreen
       }
     }
   }

@@ -50,16 +50,23 @@
       }
     },
     mounted() {
-      this.calculate();
-      if ('MutationObserver' in window && this.observer === null) {
-        // Create the observer (and what to do on changes...)
-        this.observer = new MutationObserver(this.calculate);
-        // Setup the observer
-        this.observer.observe(
-          this.$el,
-          { subtree: true, characterData: true }
-        );
-      }
+        this.calculate();
+        if ('MutationObserver' in window && this.observer === null) {
+            // Create the observer (and what to do on changes...)
+            this.observer = new MutationObserver(this.calculate);
+            // Setup the observer
+            this.observer.observe(
+                this.$el,
+                { subtree: true, characterData: true }
+            );
+        }
+        var self=this;
+        this.resizeObserver = new ResizeObserver(
+            function(){
+                self.calculate();
+            }
+        ).observe(this.$el.parentElement)
+
     },
     beforeDestroy: function() {
       // Clean up
